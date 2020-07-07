@@ -1,0 +1,32 @@
+﻿@model IEnumerable<EntityFrameworks.Model.Topic>
+
+@{
+            ViewBag.Title = "getListBaoTheoTopic";
+}
+
+<h2>getListBaoTheoTopic</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TopicName)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TopicName)
+        </td>
+        <td>
+            @Html.ActionLink(item.TopicName, "Index", new { id = item.TopicId, controller = "News" })
+        </td >
+        </tr >
+    }
+
+</table>

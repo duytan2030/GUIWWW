@@ -1,0 +1,63 @@
+F:\LapTrinhWWW_BaiTapLon\LaptrinhWWW_BaiTapLon_Nhom08\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+F:\LapTrinhWWW_BaiTapLon\LaptrinhWWW_BaiTapLon_Nhom08\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+E:\Lap Trinh WWW\Linh\btl_ver3\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\Repository.dll.config
+E:\Lap Trinh WWW\Linh\btl_ver3\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\Repository.dll
+E:\Lap Trinh WWW\Linh\btl_ver3\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\Repository.pdb
+E:\Lap Trinh WWW\Linh\btl_ver3\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFramework.dll
+E:\Lap Trinh WWW\Linh\btl_ver3\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\Lap Trinh WWW\Linh\btl_ver3\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFrameworks.dll
+E:\Lap Trinh WWW\Linh\btl_ver3\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFrameworks.pdb
+E:\Lap Trinh WWW\Linh\btl_ver3\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFrameworks.dll.config
+E:\Lap Trinh WWW\Linh\btl_ver3\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFramework.xml
+E:\Lap Trinh WWW\Linh\btl_ver3\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\Lap Trinh WWW\Linh\btl_ver3\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+E:\Lap Trinh WWW\Linh\btl_ver3\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+E:\Lap Trinh WWW\Linh\btl_ver3\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\obj\Debug\Repository.csproj.CopyComplete
+E:\Lap Trinh WWW\Linh\btl_ver3\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\obj\Debug\Repository.dll
+E:\Lap Trinh WWW\Linh\btl_ver3\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\obj\Debug\Repository.pdb
+C:\Users\Lynh\Desktop\BTLon_WWW\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\Repository.dll.config
+C:\Users\Lynh\Desktop\BTLon_WWW\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\Repository.dll
+C:\Users\Lynh\Desktop\BTLon_WWW\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\Repository.pdb
+C:\Users\Lynh\Desktop\BTLon_WWW\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Lynh\Desktop\BTLon_WWW\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lynh\Desktop\BTLon_WWW\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFrameworks.dll
+C:\Users\Lynh\Desktop\BTLon_WWW\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFrameworks.pdb
+C:\Users\Lynh\Desktop\BTLon_WWW\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Lynh\Desktop\BTLon_WWW\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lynh\Desktop\BTLon_WWW\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Lynh\Desktop\BTLon_WWW\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\obj\Debug\Repository.dll
+C:\Users\Lynh\Desktop\BTLon_WWW\BaiTapLon_WWW\LaptrinhWWW_BaiTapLon_Nhom08\Repository\obj\Debug\Repository.pdb
+E:\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\Repository.dll.config
+E:\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\Repository.dll
+E:\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\Repository.pdb
+E:\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFramework.dll
+E:\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFrameworks.dll
+E:\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFrameworks.pdb
+E:\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFrameworks.dll.config
+E:\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFramework.xml
+E:\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\LaptrinhWWW_BaiTapLon_Nhom08\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+E:\LaptrinhWWW_BaiTapLon_Nhom08\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+E:\LaptrinhWWW_BaiTapLon_Nhom08\Repository\obj\Debug\Repository.csproj.CopyComplete
+E:\LaptrinhWWW_BaiTapLon_Nhom08\Repository\obj\Debug\Repository.dll
+E:\LaptrinhWWW_BaiTapLon_Nhom08\Repository\obj\Debug\Repository.pdb
+C:\Users\Cloud27\Desktop\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\Repository.dll.config
+C:\Users\Cloud27\Desktop\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\Repository.dll
+C:\Users\Cloud27\Desktop\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\Repository.pdb
+C:\Users\Cloud27\Desktop\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Cloud27\Desktop\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cloud27\Desktop\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFrameworks.dll
+C:\Users\Cloud27\Desktop\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFrameworks.pdb
+C:\Users\Cloud27\Desktop\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFrameworks.dll.config
+C:\Users\Cloud27\Desktop\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Cloud27\Desktop\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cloud27\Desktop\LaptrinhWWW_BaiTapLon_Nhom08\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\Cloud27\Desktop\LaptrinhWWW_BaiTapLon_Nhom08\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Cloud27\Desktop\LaptrinhWWW_BaiTapLon_Nhom08\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\Cloud27\Desktop\LaptrinhWWW_BaiTapLon_Nhom08\Repository\obj\Debug\Repository.dll
+C:\Users\Cloud27\Desktop\LaptrinhWWW_BaiTapLon_Nhom08\Repository\obj\Debug\Repository.pdb
+C:\Users\Cloud27\Desktop\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\NewsAPI.dll
+C:\Users\Cloud27\Desktop\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cloud27\Desktop\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\NewsAPI.xml
+C:\Users\Cloud27\Desktop\LaptrinhWWW_BaiTapLon_Nhom08\Repository\bin\Debug\Newtonsoft.Json.xml

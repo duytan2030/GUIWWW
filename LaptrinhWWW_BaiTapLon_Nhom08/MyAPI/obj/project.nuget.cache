@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bibr4TLyatK5l+ietp6jBllWi9/biG+irZqJHmX0leTQaGUmbFVWu4wdd9vQKYUGRfEeCjArzBKCZmU4Y/Ve4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cloud27\\Desktop\\LaptrinhWWW_BaiTapLon_Nhom08\\MyAPI\\MyAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cloud27\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Cloud27\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

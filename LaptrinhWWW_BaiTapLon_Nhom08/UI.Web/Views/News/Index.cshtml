@@ -1,0 +1,37 @@
+﻿@model List<EntityFrameworks.Model.Newspaper>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    
+    
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Account.Password)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PublicationDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Image)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Active)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.NewsId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.NewsId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.NewsId })
+        </td>
+    </tr>
+}
+
+</table>
